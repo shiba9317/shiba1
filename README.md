@@ -57,7 +57,7 @@ echo 1 > /dev/myled0でON/OFを切り替え、LEDを光らせるという物で�
 12．echo 1 > /dev/myled1と打ち込み、LEDの光を、消す
 
 ## ライセンス
-・GPL→
+・GNU General Public License
 
 ## 動作
 ・youtubeにて、その動作を確認できる動画を公開する
